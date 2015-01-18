@@ -211,7 +211,7 @@
         <scene sceneID="4FV-ZS-l5k">
             <objects>
                 <navigationController title="Songs" automaticallyAdjustsScrollViewInsets="NO" id="bnd-NU-x7R" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Songs" image="songs_b" id="O5T-oa-WET" userLabel="Songs"/>
+                    <tabBarItem key="tabBarItem" title="Songs" image="songs_a" id="O5T-oa-WET" userLabel="Songs"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="yfu-0D-Oak">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -235,7 +235,7 @@
     <resources>
         <image name="artists_b" width="25" height="25"/>
         <image name="playlists_b" width="25" height="25"/>
-        <image name="songs_b" width="25" height="25"/>
+        <image name="songs_a" width="25" height="25"/>
     </resources>
     <color key="tintColor" red="0.44705882349999998" green="0.59607843140000005" blue="0.79607843140000001" alpha="1" colorSpace="calibratedRGB"/>
 </document>
